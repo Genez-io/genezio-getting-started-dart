@@ -20,8 +20,8 @@ If you want to test this example out-of-the-box by running 1 command, head to th
 If you want to deploy your application step-by-step, follow the guidelines below.
 
 ## Clone the example
-1. Run `git clone https://github.com/Genez-io/genezio-examples`
-2. Navigate to the folder `cd ./genezio-examples/dart/getting-started`
+1. Run `git clone https://github.com/Genez-io/genezio-getting-started-dart`
+2. Navigate to the folder `cd ./genezio-getting-started-dart`
 
 ## Initialization
 

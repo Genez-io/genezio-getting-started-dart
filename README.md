@@ -6,7 +6,7 @@
 
 </div>
 
-## You can check a [demo getting-started app here](https://getting-started-dart.dev.app.genez.io/).
+## You can check a [demo getting-started app here](https://getting-started-dart.app.genez.io/).
 
 This is an example of a todo application that uses:
  * `Dart` for the backend
